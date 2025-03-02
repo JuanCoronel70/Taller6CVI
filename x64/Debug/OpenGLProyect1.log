@@ -1,0 +1,38 @@
+﻿  main.cpp
+C:\Users\juanc\Desktop\OpenGLProyect1\OpenGLProyect1\main.cpp(320,28): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\juanc\Desktop\OpenGLProyect1\OpenGLProyect1\main.cpp(332,76): warning C4244: '-=': conversión de 'double' a 'T'; posible pérdida de datos
+C:\Users\juanc\Desktop\OpenGLProyect1\OpenGLProyect1\main.cpp(332,76): warning C4244:         with
+C:\Users\juanc\Desktop\OpenGLProyect1\OpenGLProyect1\main.cpp(332,76): warning C4244:         [
+C:\Users\juanc\Desktop\OpenGLProyect1\OpenGLProyect1\main.cpp(332,76): warning C4244:             T=float
+C:\Users\juanc\Desktop\OpenGLProyect1\OpenGLProyect1\main.cpp(332,76): warning C4244:         ]
+C:\Users\juanc\Desktop\OpenGLProyect1\OpenGLProyect1\main.cpp(334,46): warning C4244: '+=': conversión de 'double' a 'T'; posible pérdida de datos
+C:\Users\juanc\Desktop\OpenGLProyect1\OpenGLProyect1\main.cpp(334,46): warning C4244:         with
+C:\Users\juanc\Desktop\OpenGLProyect1\OpenGLProyect1\main.cpp(334,46): warning C4244:         [
+C:\Users\juanc\Desktop\OpenGLProyect1\OpenGLProyect1\main.cpp(334,46): warning C4244:             T=float
+C:\Users\juanc\Desktop\OpenGLProyect1\OpenGLProyect1\main.cpp(334,46): warning C4244:         ]
+C:\Users\juanc\Desktop\OpenGLProyect1\OpenGLProyect1\main.cpp(336,46): warning C4244: '+=': conversión de 'double' a 'T'; posible pérdida de datos
+C:\Users\juanc\Desktop\OpenGLProyect1\OpenGLProyect1\main.cpp(336,46): warning C4244:         with
+C:\Users\juanc\Desktop\OpenGLProyect1\OpenGLProyect1\main.cpp(336,46): warning C4244:         [
+C:\Users\juanc\Desktop\OpenGLProyect1\OpenGLProyect1\main.cpp(336,46): warning C4244:             T=float
+C:\Users\juanc\Desktop\OpenGLProyect1\OpenGLProyect1\main.cpp(336,46): warning C4244:         ]
+C:\Users\juanc\Desktop\OpenGLProyect1\OpenGLProyect1\main.cpp(338,46): warning C4244: '-=': conversión de 'double' a 'T'; posible pérdida de datos
+C:\Users\juanc\Desktop\OpenGLProyect1\OpenGLProyect1\main.cpp(338,46): warning C4244:         with
+C:\Users\juanc\Desktop\OpenGLProyect1\OpenGLProyect1\main.cpp(338,46): warning C4244:         [
+C:\Users\juanc\Desktop\OpenGLProyect1\OpenGLProyect1\main.cpp(338,46): warning C4244:             T=float
+C:\Users\juanc\Desktop\OpenGLProyect1\OpenGLProyect1\main.cpp(338,46): warning C4244:         ]
+C:\Users\juanc\Desktop\OpenGLProyect1\OpenGLProyect1\main.cpp(340,39): warning C4244: '+=': conversión de 'double' a 'T'; posible pérdida de datos
+C:\Users\juanc\Desktop\OpenGLProyect1\OpenGLProyect1\main.cpp(340,39): warning C4244:         with
+C:\Users\juanc\Desktop\OpenGLProyect1\OpenGLProyect1\main.cpp(340,39): warning C4244:         [
+C:\Users\juanc\Desktop\OpenGLProyect1\OpenGLProyect1\main.cpp(340,39): warning C4244:             T=float
+C:\Users\juanc\Desktop\OpenGLProyect1\OpenGLProyect1\main.cpp(340,39): warning C4244:         ]
+C:\Users\juanc\Desktop\OpenGLProyect1\OpenGLProyect1\main.cpp(342,39): warning C4244: '-=': conversión de 'double' a 'T'; posible pérdida de datos
+C:\Users\juanc\Desktop\OpenGLProyect1\OpenGLProyect1\main.cpp(342,39): warning C4244:         with
+C:\Users\juanc\Desktop\OpenGLProyect1\OpenGLProyect1\main.cpp(342,39): warning C4244:         [
+C:\Users\juanc\Desktop\OpenGLProyect1\OpenGLProyect1\main.cpp(342,39): warning C4244:             T=float
+C:\Users\juanc\Desktop\OpenGLProyect1\OpenGLProyect1\main.cpp(342,39): warning C4244:         ]
+C:\Users\juanc\Desktop\OpenGLProyect1\OpenGLProyect1\main.cpp(349,39): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\juanc\Desktop\OpenGLProyect1\OpenGLProyect1\main.cpp(350,41): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\juanc\Desktop\OpenGLProyect1\OpenGLProyect1\main.cpp(447,22): warning C4101: 'label': variable local sin referencia
+  OpenGLProyect1.vcxproj -> C:\Users\juanc\Desktop\OpenGLProyect1\x64\Debug\OpenGLProyect1.exe
+  "pwsh.exe" no se reconoce como un comando interno o externo,
+  programa o archivo por lotes ejecutable.
