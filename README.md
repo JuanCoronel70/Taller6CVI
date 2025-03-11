@@ -2,6 +2,8 @@
 
 This is an OpenGL-based project that uses **GLEW (OpenGL Extension Wrangler Library)** to manage OpenGL functions that may not be available due to versioning. The project also utilizes **GLFW (Graphics Library Framework)** to handle window creation, user input, events, and OpenGL contexts.
 
+***IMPORTANT: If you are gonna use all the binaries and libs for a x32 version, then make sure to be on your x32 all configurations for solution propiertes and to be on debug x86 on Visual Studio.***
+
 1. Download the GLEW binaries from the official [website](https://glew.sourceforge.net/).
 2. Download the pre-compiled 32-bit binaries for Windows (or the appropriate version for your OS) from the official [GLFW website](https://www.glfw.org/download.html).
 3. Extract the zip files.
