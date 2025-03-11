@@ -45,9 +45,10 @@ Sure! Here's the improved version of your steps in English:
    ```bash
    vcpkg install stb
    ```
-10. **Configure include directories in Visual Studio**
+10. **Configure include directories in Visual Studio for imgui**
    1. Right-click on your **solution** and select **Properties**.
    2. Go to **C++** → **General** → **Additional Include Directories**.
    3. Click on **Edit** → **Add Directories**.
    4. Add the **imgui** directory. Finally, click **Apply**.
 11. **Restart Visual Studio**
+12. Video tutorial on how to install dear ImGui manually: [link](https://www.youtube.com/watch?v=VRwhNKoxUtk).
